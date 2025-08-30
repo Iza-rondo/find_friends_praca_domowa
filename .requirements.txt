@@ -4,3 +4,4 @@ qdrant-client
 streamlit
 pydub 
 pycaret
+pycaret.clustering
