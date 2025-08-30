@@ -3,5 +3,4 @@ pytho-dotenv
 qdrant-client
 streamlit
 pydub 
-pycaret
-pycaret.clustering
+pycaret==3.0.2
