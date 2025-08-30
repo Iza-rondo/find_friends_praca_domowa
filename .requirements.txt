@@ -3,4 +3,4 @@ pytho-dotenv
 qdrant-client
 streamlit
 pydub 
-pycaret==3.0.2
+pycaret==3.3.2
