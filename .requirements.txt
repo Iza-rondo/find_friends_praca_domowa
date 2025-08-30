@@ -1,0 +1,5 @@
+openai
+pytho-dotenv
+qdrant-client
+streamlit
+pydyb 
